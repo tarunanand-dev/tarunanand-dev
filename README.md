@@ -1,4 +1,4 @@
-[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunanand-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunanand-dev)]
 
 <!--
 **tarunanand-dev/tarunanand-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
